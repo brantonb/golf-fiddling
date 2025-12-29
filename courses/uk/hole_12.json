@@ -1,0 +1,126 @@
+{
+  "hole": 12,
+  "par": 3,
+  "distance": 162,
+  "handicap": 14,
+  "scroll_limit": 1,
+  "green": {
+    "x": 92,
+    "y": 71
+  },
+  "tee": {
+    "x": 83,
+    "y": 162
+  },
+  "flag_positions": [
+    {
+      "x_offset": 95,
+      "y_offset": 62
+    },
+    {
+      "x_offset": 39,
+      "y_offset": 98
+    },
+    {
+      "x_offset": 135,
+      "y_offset": 93
+    },
+    {
+      "x_offset": 56,
+      "y_offset": 144
+    }
+  ],
+  "terrain": {
+    "width": 22,
+    "height": 30,
+    "rows": [
+      "A3 A0 A1 A2 A3 A0 A1 A2 A3 A0 A1 A2 A3 A0 A1 A2 B8 A5 3F 3F 89 DF",
+      "A1 A2 A3 A0 A1 A2 A3 A0 A1 A2 A3 A0 A1 A2 A3 A6 AB 3F 3F 3F 88 93",
+      "A3 A0 A1 A2 A3 A0 A1 A2 A3 A0 A1 A2 B8 A5 AA B3 3F 3F 84 85 DF 92",
+      "A1 A2 A3 A0 A1 A2 B8 A4 A1 B4 B9 A5 AB 3F 3F 3F 3F 80 DF 8E 8F 3F",
+      "A3 A0 A1 A2 B8 A5 AB B5 B9 3F 94 84 98 98 85 86 85 DF 83 3F 3F 3F",
+      "A1 A2 A3 A6 AB 84 85 86 98 85 DF DF 9E 3E 9E DF DF 93 3F 3F 3F B1",
+      "A3 A0 A1 B2 97 DF DF DF DF DF DF DF 9F DF 9F 9E DF 8B 3F 3F B6 A0",
+      "A1 A2 A3 A6 89 DF 9E DF DF DF DF DF DF DF DF 9F DF DF 8A A9 A1 A2",
+      "A3 A0 A1 B3 88 3E 9F DF DF DF 40 4A 51 DF 52 41 DF DF 9B B5 A3 A0",
+      "A1 A2 B8 97 DF 9E DF DF DF DF 74 77 25 25 25 55 9E DF 9B A9 A1 A2",
+      "A3 A0 AC 89 9E 9F DF DF 40 4A 47 25 25 25 25 9E 9F DF 92 B0 A3 A0",
+      "A1 A2 B9 9A 9F DF DF DF 4C 27 49 25 25 25 25 9F 3E DF 96 A4 A1 A2",
+      "A3 A6 3F 88 9E DF 42 4B 27 27 27 44 43 4A 41 3E 9E DF 96 B0 A3 A0",
+      "A1 B2 3F 90 9F DF 4C 27 27 27 27 27 27 27 27 47 9F DF 96 A4 A1 A2",
+      "A3 A0 AD 9A DF DF 74 75 71 27 27 27 27 27 71 7B DF 93 3F B0 A3 A0",
+      "A1 A2 B8 9A DF DF 25 25 25 70 71 72 76 77 25 25 DF 9B B6 A0 A1 A2",
+      "A3 A0 AC 91 9C DF 25 25 56 62 66 65 61 27 62 63 DF 8B AA A2 A3 A0",
+      "A1 A2 B8 97 9F 9E DF 25 6A 27 27 27 27 27 27 59 25 83 3F A4 A1 A2",
+      "A3 A0 AC 3F 90 9D 9E 25 7A 27 27 27 27 27 7B 25 93 3F 3F B0 A3 A0",
+      "A1 A2 A3 A7 9A DF 9D 25 25 74 75 76 75 73 25 25 8B 3F B6 A0 A1 A2",
+      "A3 A0 A1 B3 88 DF 25 25 25 36 3C 37 25 25 25 25 9E 8A AA A2 A3 A0",
+      "A1 A2 B8 97 DF 9C DF 25 25 35 35 35 25 25 25 9C 9D 9B B6 A0 A1 A2",
+      "A3 A0 AC B1 90 9F DF 25 25 25 25 25 25 25 25 9F 9C 92 AA A2 A3 A0",
+      "A1 A2 A3 A6 9A DF 9C DF 25 25 25 25 25 25 DF DF 9F 96 B6 A0 A1 A2",
+      "A3 A0 A1 B2 91 DF 9F 9E DF 25 25 25 25 DF DF DF DF 8A AA A2 A3 A0",
+      "A1 A2 A3 A0 AD 90 9C 9D 9C DF DF DF DF DF DF DF DF 92 B6 A0 A1 A2",
+      "A3 A0 A1 A2 B8 91 9F 9E 9F DF 9E DF DF DF DF DF 93 A9 A1 A2 A3 A0",
+      "A1 A2 A3 A0 AC B1 82 9D DF 9C 9D DF 9C DF DF DF 9B B0 A3 A0 A1 A2",
+      "A3 A0 A1 A2 A3 A6 97 DF 9C 9F 9E 9C 9F 9C DF DF 9B A4 A1 A2 A3 A0",
+      "A1 A2 A3 A0 A1 B2 B7 90 9D 9C 9D 9F 9C 9F 9C 9C 8B B0 A3 A0 A1 A2"
+    ]
+  },
+  "attributes": {
+    "width": 11,
+    "height": 14,
+    "rows": [
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1],
+      [1, 1, 2, 1, 3, 3, 3, 3, 1, 1, 1],
+      [1, 1, 2, 3, 3, 3, 0, 3, 1, 1, 1],
+      [1, 1, 1, 3, 3, 3, 3, 3, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    ]
+  },
+  "greens": {
+    "width": 24,
+    "height": 24,
+    "rows": [
+      "29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C",
+      "2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C 29",
+      "29 2C 29 2C 29 2C 29 2C 29 2C 29 85 29 2C 29 2C 29 2C 29 2C 29 2C 29 2C",
+      "2C 29 2C 29 2C 29 2C 29 2C 48 49 64 4A 4B 85 29 2C 29 2C 29 2C 29 2C 29",
+      "29 2C 29 2C 29 2C 29 48 49 68 9F B0 B0 69 64 4A 4B 2C 29 2C 29 2C 29 2C",
+      "2C 29 2C 29 2C 29 7C 68 9F 9F 9F B0 B0 B0 B0 B0 59 83 2C 29 2C 29 2C 29",
+      "29 2C 29 2C 48 49 77 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 69 7D 2C 29 2C 29 2C",
+      "2C 29 2C 50 58 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 6E 51 2C 29 2C 29",
+      "29 2C 29 52 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 9C 9C 53 29 2C 29 2C",
+      "2C 29 84 66 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 9C 9C 6E 51 29 2C 29",
+      "29 2C 50 6F 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 9C 9C 9C 61 2C 29 2C",
+      "2C 29 52 9F 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 9C 9C 9C 53 29 2C 29",
+      "29 84 66 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 9C 9C 9C 9C 6E 51 29 2C",
+      "2C 50 6F 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 9C 9C 9C 9C 9C 53 2C 29",
+      "29 52 9F 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 9C 9C 9C 9C 9C 67 73 2C",
+      "84 66 9F 9F 9F 9F 9F 9F B0 B0 B0 B0 B0 B0 9C 9C 9C 9C 9C 9C 9C 67 87 29",
+      "70 66 95 95 95 95 95 95 B0 B0 B0 B0 B0 95 95 95 95 95 95 95 95 55 29 2C",
+      "2C 54 95 95 95 95 95 95 95 B0 B0 B0 95 95 95 95 95 95 95 74 4E 5F 2C 29",
+      "29 60 95 95 95 95 95 95 95 95 95 95 95 95 95 95 95 95 95 55 29 2C 29 2C",
+      "2C 56 5A 95 95 95 95 95 95 95 95 95 95 95 95 95 95 95 95 61 2C 29 2C 29",
+      "29 2C 80 5A 95 95 95 95 95 95 95 95 95 95 95 95 95 95 5B 57 29 2C 29 2C",
+      "2C 29 2C 80 5A 95 95 95 95 95 95 95 95 95 95 95 6B 4E 4F 29 2C 29 2C 29",
+      "29 2C 29 2C 4C 4D 65 4E 4D 4E 63 63 4D 65 65 4E 4F 2C 29 2C 29 2C 29 2C",
+      "2C 29 2C 29 2C 29 86 2C 2C 29 2C 29 2C 72 86 29 2C 29 2C 29 2C 29 2C 29"
+    ]
+  },
+  "_debug": {
+    "terrain_ptr": "$9863",
+    "terrain_end_ptr": "$99D0",
+    "terrain_compressed_size": 365,
+    "greens_ptr": "$A228",
+    "attr_raw": "44 55 55 55 55 55 44 55 55 55 55 55 44 95 D5 FA 7A 55 44 59 FF F3 77 55 44 55 55 55 55 55 44 55 55 55 55 55 44 55 55 55 55 55 04 05 05 05 05 05 A1 A2 A3 A0 A1 A2 A3 A0 A1 A2 A3 A0 A1 A2 A3 A0 A1 80 DF 40 59 25 00 0F"
+  }
+}
