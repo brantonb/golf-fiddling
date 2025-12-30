@@ -1,0 +1,4828 @@
+{
+  "rom": "nes_open_us.nes",
+  "total_courses": 3,
+  "total_holes": 54,
+  "statistics": {
+    "terrain": {
+      "dictionary_codes": {
+        "0xE4": {
+          "first_byte": "0x00",
+          "repeat_count": 5,
+          "usage_count": 376,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE1": {
+          "first_byte": "0x00",
+          "repeat_count": 2,
+          "usage_count": 1031,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE8": {
+          "first_byte": "0x00",
+          "repeat_count": 9,
+          "usage_count": 120,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_05",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE3": {
+          "first_byte": "0x00",
+          "repeat_count": 4,
+          "usage_count": 522,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE2": {
+          "first_byte": "0x00",
+          "repeat_count": 3,
+          "usage_count": 703,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE0": {
+          "first_byte": "0x00",
+          "repeat_count": 1,
+          "usage_count": 1458,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF2": {
+          "first_byte": "0x3E",
+          "repeat_count": 1,
+          "usage_count": 61,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "uk/hole_05",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_07",
+            "us/hole_10",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_16",
+            "us/hole_18"
+          ]
+        },
+        "0xEB": {
+          "first_byte": "0x00",
+          "repeat_count": 10,
+          "usage_count": 86,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_14",
+            "japan/hole_16",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE7": {
+          "first_byte": "0x00",
+          "repeat_count": 8,
+          "usage_count": 129,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE6": {
+          "first_byte": "0x00",
+          "repeat_count": 7,
+          "usage_count": 228,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xEA": {
+          "first_byte": "0x25",
+          "repeat_count": 1,
+          "usage_count": 86,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_18"
+          ]
+        },
+        "0xE9": {
+          "first_byte": "0xA5",
+          "repeat_count": 1,
+          "usage_count": 104,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_14",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE5": {
+          "first_byte": "0x00",
+          "repeat_count": 6,
+          "usage_count": 266,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xFE": {
+          "first_byte": "0xB4",
+          "repeat_count": 1,
+          "usage_count": 28,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_04",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_17",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_18"
+          ]
+        },
+        "0xEE": {
+          "first_byte": "0xA6",
+          "repeat_count": 1,
+          "usage_count": 80,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_06",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_14",
+            "us/hole_16",
+            "us/hole_18"
+          ]
+        },
+        "0xEC": {
+          "first_byte": "0x9C",
+          "repeat_count": 1,
+          "usage_count": 85,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_08",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_17",
+            "us/hole_01",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xFF": {
+          "first_byte": "0x86",
+          "repeat_count": 1,
+          "usage_count": 31,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_10",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_09",
+            "uk/hole_11",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_18",
+            "us/hole_02",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_10",
+            "us/hole_12",
+            "us/hole_14"
+          ]
+        },
+        "0xF5": {
+          "first_byte": "0x70",
+          "repeat_count": 1,
+          "usage_count": 55,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_12",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_06",
+            "uk/hole_08",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_18",
+            "us/hole_02",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_15",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF4": {
+          "first_byte": "0xB6",
+          "repeat_count": 1,
+          "usage_count": 62,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_11",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_06",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xED": {
+          "first_byte": "0x72",
+          "repeat_count": 1,
+          "usage_count": 79,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_16",
+            "uk/hole_18",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_05",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_13",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xEF": {
+          "first_byte": "0xDF",
+          "repeat_count": 1,
+          "usage_count": 76,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_17"
+          ]
+        },
+        "0xF0": {
+          "first_byte": "0x9D",
+          "repeat_count": 1,
+          "usage_count": 72,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_08",
+            "japan/hole_10",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_14",
+            "us/hole_01",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_10",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF1": {
+          "first_byte": "0xB8",
+          "repeat_count": 1,
+          "usage_count": 67,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_03",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_18"
+          ]
+        },
+        "0xF3": {
+          "first_byte": "0x84",
+          "repeat_count": 1,
+          "usage_count": 59,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_04",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_17",
+            "us/hole_04",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_18"
+          ]
+        },
+        "0xF7": {
+          "first_byte": "0x42",
+          "repeat_count": 1,
+          "usage_count": 47,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_06",
+            "japan/hole_09",
+            "japan/hole_11",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "uk/hole_01",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_06",
+            "us/hole_08",
+            "us/hole_15",
+            "us/hole_16"
+          ]
+        },
+        "0xFD": {
+          "first_byte": "0x60",
+          "repeat_count": 1,
+          "usage_count": 34,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_10",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "us/hole_02",
+            "us/hole_08",
+            "us/hole_12",
+            "us/hole_14",
+            "us/hole_18"
+          ]
+        },
+        "0xFC": {
+          "first_byte": "0x76",
+          "repeat_count": 1,
+          "usage_count": 35,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_11",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_18",
+            "us/hole_04",
+            "us/hole_06",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_15",
+            "us/hole_18"
+          ]
+        },
+        "0xFB": {
+          "first_byte": "0x98",
+          "repeat_count": 1,
+          "usage_count": 37,
+          "holes": [
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_08",
+            "japan/hole_10",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_12",
+            "uk/hole_14",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_03",
+            "us/hole_09",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_18"
+          ]
+        },
+        "0xF9": {
+          "first_byte": "0x8C",
+          "repeat_count": 1,
+          "usage_count": 40,
+          "holes": [
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_10",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_09",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_14",
+            "us/hole_15"
+          ]
+        },
+        "0xFA": {
+          "first_byte": "0x00",
+          "repeat_count": 21,
+          "usage_count": 37,
+          "holes": [
+            "japan/hole_04",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_12",
+            "japan/hole_14",
+            "japan/hole_16",
+            "uk/hole_04",
+            "uk/hole_06",
+            "uk/hole_16",
+            "us/hole_02",
+            "us/hole_07"
+          ]
+        },
+        "0xF6": {
+          "first_byte": "0x00",
+          "repeat_count": 11,
+          "usage_count": 53,
+          "holes": [
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_11",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_08",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF8": {
+          "first_byte": "0x8E",
+          "repeat_count": 1,
+          "usage_count": 43,
+          "holes": [
+            "japan/hole_07",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_06",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_17",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_14",
+            "us/hole_16",
+            "us/hole_18"
+          ]
+        }
+      },
+      "repeat_codes": {
+        "1": {
+          "usage_count": 739,
+          "top_transitions": [
+            {
+              "prev_byte": "0x62",
+              "next_byte": "0x63",
+              "count": 31
+            },
+            {
+              "prev_byte": "0x44",
+              "next_byte": "0x45",
+              "count": 30
+            },
+            {
+              "prev_byte": "0x81",
+              "next_byte": "0x3F",
+              "count": 28
+            },
+            {
+              "prev_byte": "0x93",
+              "next_byte": "0x3F",
+              "count": 27
+            },
+            {
+              "prev_byte": "0x92",
+              "next_byte": "0xAA",
+              "count": 23
+            },
+            {
+              "prev_byte": "0x8A",
+              "next_byte": "0xA4",
+              "count": 23
+            },
+            {
+              "prev_byte": "0x74",
+              "next_byte": "0x77",
+              "count": 23
+            },
+            {
+              "prev_byte": "0x3F",
+              "next_byte": "0x3F",
+              "count": 22
+            },
+            {
+              "prev_byte": "0xA7",
+              "next_byte": "0x90",
+              "count": 21
+            },
+            {
+              "prev_byte": "0x4B",
+              "next_byte": "0x43",
+              "count": 21
+            },
+            {
+              "prev_byte": "0xAD",
+              "next_byte": "0xB1",
+              "count": 19
+            },
+            {
+              "prev_byte": "0x99",
+              "next_byte": "0x8F",
+              "count": 19
+            },
+            {
+              "prev_byte": "0xA8",
+              "next_byte": "0xAD",
+              "count": 18
+            },
+            {
+              "prev_byte": "0xB1",
+              "next_byte": "0xB6",
+              "count": 18
+            },
+            {
+              "prev_byte": "0x91",
+              "next_byte": "0xDF",
+              "count": 18
+            },
+            {
+              "prev_byte": "0x8B",
+              "next_byte": "0x3F",
+              "count": 17
+            },
+            {
+              "prev_byte": "0xB9",
+              "next_byte": "0xA5",
+              "count": 17
+            },
+            {
+              "prev_byte": "0x83",
+              "next_byte": "0xB6",
+              "count": 17
+            },
+            {
+              "prev_byte": "0x52",
+              "next_byte": "0x41",
+              "count": 16
+            },
+            {
+              "prev_byte": "0xB7",
+              "next_byte": "0x90",
+              "count": 16
+            }
+          ]
+        },
+        "2": {
+          "usage_count": 584,
+          "top_transitions": [
+            {
+              "prev_byte": "0x25",
+              "next_byte": "0x25",
+              "count": 57
+            },
+            {
+              "prev_byte": "0xDF",
+              "next_byte": "0xDF",
+              "count": 42
+            },
+            {
+              "prev_byte": "0x3C",
+              "next_byte": "0x37",
+              "count": 33
+            },
+            {
+              "prev_byte": "0xA5",
+              "next_byte": "0xAA",
+              "count": 29
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9D",
+              "count": 28
+            },
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9C",
+              "count": 28
+            },
+            {
+              "prev_byte": "0xB6",
+              "next_byte": "0xA0",
+              "count": 28
+            },
+            {
+              "prev_byte": "0xB1",
+              "next_byte": "0xB6",
+              "count": 24
+            },
+            {
+              "prev_byte": "0x36",
+              "next_byte": "0x3C",
+              "count": 22
+            },
+            {
+              "prev_byte": "0xAD",
+              "next_byte": "0xB1",
+              "count": 20
+            },
+            {
+              "prev_byte": "0xB9",
+              "next_byte": "0xA5",
+              "count": 20
+            },
+            {
+              "prev_byte": "0x44",
+              "next_byte": "0x45",
+              "count": 19
+            },
+            {
+              "prev_byte": "0xB8",
+              "next_byte": "0xA5",
+              "count": 17
+            },
+            {
+              "prev_byte": "0x4A",
+              "next_byte": "0x44",
+              "count": 14
+            },
+            {
+              "prev_byte": "0x83",
+              "next_byte": "0xB6",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x8F",
+              "next_byte": "0x95",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x86",
+              "next_byte": "0x87",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x87",
+              "next_byte": "0x3F",
+              "count": 13
+            },
+            {
+              "prev_byte": "0xA8",
+              "next_byte": "0xAD",
+              "count": 11
+            },
+            {
+              "prev_byte": "0x39",
+              "next_byte": "0x3C",
+              "count": 11
+            }
+          ]
+        },
+        "13": {
+          "usage_count": 403,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 403
+            }
+          ]
+        },
+        "3": {
+          "usage_count": 192,
+          "top_transitions": [
+            {
+              "prev_byte": "0x25",
+              "next_byte": "0x25",
+              "count": 20
+            },
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9C",
+              "count": 20
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9D",
+              "count": 19
+            },
+            {
+              "prev_byte": "0xDF",
+              "next_byte": "0xDF",
+              "count": 14
+            },
+            {
+              "prev_byte": "0xB4",
+              "next_byte": "0xB9",
+              "count": 13
+            },
+            {
+              "prev_byte": "0xB9",
+              "next_byte": "0xA5",
+              "count": 13
+            },
+            {
+              "prev_byte": "0xA5",
+              "next_byte": "0xAA",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x3C",
+              "next_byte": "0x37",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x37",
+              "next_byte": "0x25",
+              "count": 6
+            },
+            {
+              "prev_byte": "0xAD",
+              "next_byte": "0xB1",
+              "count": 6
+            },
+            {
+              "prev_byte": "0xB1",
+              "next_byte": "0xB6",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x3F",
+              "next_byte": "0x3F",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x39",
+              "next_byte": "0x3C",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x8C",
+              "count": 5
+            },
+            {
+              "prev_byte": "0xA8",
+              "next_byte": "0xAD",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x82",
+              "next_byte": "0xDF",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x8C",
+              "next_byte": "0x8D",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x8D",
+              "next_byte": "0xDF",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x8F",
+              "next_byte": "0x95",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x86",
+              "next_byte": "0x87",
+              "count": 2
+            }
+          ]
+        },
+        "4": {
+          "usage_count": 52,
+          "top_transitions": [
+            {
+              "prev_byte": "0xDF",
+              "next_byte": "0xDF",
+              "count": 19
+            },
+            {
+              "prev_byte": "0x25",
+              "next_byte": "0x25",
+              "count": 17
+            },
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9C",
+              "count": 2
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9D",
+              "count": 2
+            },
+            {
+              "prev_byte": "0x7B",
+              "next_byte": "0xDF",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x36",
+              "next_byte": "0x3C",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x3C",
+              "next_byte": "0x37",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x37",
+              "next_byte": "0x25",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x99",
+              "next_byte": "0x8F",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x8F",
+              "next_byte": "0x95",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x8C",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x8C",
+              "next_byte": "0x8D",
+              "count": 1
+            },
+            {
+              "prev_byte": "0xA8",
+              "next_byte": "0xAD",
+              "count": 1
+            },
+            {
+              "prev_byte": "0xAD",
+              "next_byte": "0xB1",
+              "count": 1
+            },
+            {
+              "prev_byte": "0xB1",
+              "next_byte": "0xB6",
+              "count": 1
+            },
+            {
+              "prev_byte": "0xB6",
+              "next_byte": "0xA0",
+              "count": 1
+            }
+          ]
+        },
+        "14": {
+          "usage_count": 238,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 238
+            }
+          ]
+        },
+        "12": {
+          "usage_count": 312,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 312
+            }
+          ]
+        },
+        "5": {
+          "usage_count": 20,
+          "top_transitions": [
+            {
+              "prev_byte": "0xDF",
+              "next_byte": "0xDF",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x3F",
+              "next_byte": "0x3F",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9D",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9C",
+              "count": 2
+            },
+            {
+              "prev_byte": "0x89",
+              "next_byte": "0xDF",
+              "count": 1
+            }
+          ]
+        },
+        "17": {
+          "usage_count": 102,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 102
+            }
+          ]
+        },
+        "16": {
+          "usage_count": 144,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 144
+            }
+          ]
+        },
+        "15": {
+          "usage_count": 135,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 135
+            }
+          ]
+        },
+        "18": {
+          "usage_count": 54,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 54
+            }
+          ]
+        },
+        "20": {
+          "usage_count": 20,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 20
+            }
+          ]
+        },
+        "19": {
+          "usage_count": 38,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 38
+            }
+          ]
+        }
+      },
+      "horizontal_transitions": {
+        "total_count": 18302,
+        "unique_transitions": 21,
+        "top_transitions": [
+          {
+            "prev_byte": "0x00",
+            "next_byte": "0x00",
+            "count": 17121
+          },
+          {
+            "prev_byte": "0xA5",
+            "next_byte": "0xAA",
+            "count": 104
+          },
+          {
+            "prev_byte": "0x25",
+            "next_byte": "0x25",
+            "count": 86
+          },
+          {
+            "prev_byte": "0x9C",
+            "next_byte": "0x9D",
+            "count": 85
+          },
+          {
+            "prev_byte": "0xA6",
+            "next_byte": "0xAB",
+            "count": 80
+          },
+          {
+            "prev_byte": "0x72",
+            "next_byte": "0x73",
+            "count": 79
+          },
+          {
+            "prev_byte": "0xDF",
+            "next_byte": "0xDF",
+            "count": 76
+          },
+          {
+            "prev_byte": "0x9D",
+            "next_byte": "0x9C",
+            "count": 72
+          },
+          {
+            "prev_byte": "0xB8",
+            "next_byte": "0xA5",
+            "count": 67
+          },
+          {
+            "prev_byte": "0xB6",
+            "next_byte": "0xA0",
+            "count": 62
+          },
+          {
+            "prev_byte": "0x3E",
+            "next_byte": "0x9E",
+            "count": 61
+          },
+          {
+            "prev_byte": "0x84",
+            "next_byte": "0x85",
+            "count": 59
+          },
+          {
+            "prev_byte": "0x70",
+            "next_byte": "0x71",
+            "count": 55
+          },
+          {
+            "prev_byte": "0x42",
+            "next_byte": "0x43",
+            "count": 47
+          },
+          {
+            "prev_byte": "0x8E",
+            "next_byte": "0x8F",
+            "count": 43
+          },
+          {
+            "prev_byte": "0x8C",
+            "next_byte": "0x8D",
+            "count": 40
+          },
+          {
+            "prev_byte": "0x98",
+            "next_byte": "0x85",
+            "count": 37
+          },
+          {
+            "prev_byte": "0x76",
+            "next_byte": "0x77",
+            "count": 35
+          },
+          {
+            "prev_byte": "0x60",
+            "next_byte": "0x61",
+            "count": 34
+          },
+          {
+            "prev_byte": "0x86",
+            "next_byte": "0x87",
+            "count": 31
+          },
+          {
+            "prev_byte": "0xB4",
+            "next_byte": "0xB9",
+            "count": 28
+          }
+        ]
+      },
+      "vertical_fills": {
+        "total_count": 26354,
+        "unique_fills": 140,
+        "top_fills": [
+          {
+            "byte_above": "0x27",
+            "new_byte": "0x27",
+            "count": 4819
+          },
+          {
+            "byte_above": "0xA0",
+            "new_byte": "0xA2",
+            "count": 2736
+          },
+          {
+            "byte_above": "0xA1",
+            "new_byte": "0xA3",
+            "count": 2636
+          },
+          {
+            "byte_above": "0xA3",
+            "new_byte": "0xA1",
+            "count": 2612
+          },
+          {
+            "byte_above": "0xA2",
+            "new_byte": "0xA0",
+            "count": 2426
+          },
+          {
+            "byte_above": "0xDF",
+            "new_byte": "0xDF",
+            "count": 1797
+          },
+          {
+            "byte_above": "0x25",
+            "new_byte": "0x25",
+            "count": 1630
+          },
+          {
+            "byte_above": "0x9E",
+            "new_byte": "0x9F",
+            "count": 670
+          },
+          {
+            "byte_above": "0x9C",
+            "new_byte": "0x9F",
+            "count": 401
+          },
+          {
+            "byte_above": "0xB6",
+            "new_byte": "0xA1",
+            "count": 247
+          },
+          {
+            "byte_above": "0x9F",
+            "new_byte": "0x9E",
+            "count": 231
+          },
+          {
+            "byte_above": "0x9D",
+            "new_byte": "0x9C",
+            "count": 220
+          },
+          {
+            "byte_above": "0xA4",
+            "new_byte": "0xB0",
+            "count": 194
+          },
+          {
+            "byte_above": "0xA6",
+            "new_byte": "0xB2",
+            "count": 172
+          },
+          {
+            "byte_above": "0xAA",
+            "new_byte": "0xB6",
+            "count": 168
+          },
+          {
+            "byte_above": "0xB1",
+            "new_byte": "0xA0",
+            "count": 143
+          },
+          {
+            "byte_above": "0xB8",
+            "new_byte": "0xAC",
+            "count": 141
+          },
+          {
+            "byte_above": "0xB0",
+            "new_byte": "0xA4",
+            "count": 125
+          },
+          {
+            "byte_above": "0x3F",
+            "new_byte": "0x3F",
+            "count": 114
+          },
+          {
+            "byte_above": "0xAD",
+            "new_byte": "0xA3",
+            "count": 112
+          },
+          {
+            "byte_above": "0xB2",
+            "new_byte": "0xA6",
+            "count": 108
+          },
+          {
+            "byte_above": "0x6B",
+            "new_byte": "0x7B",
+            "count": 97
+          },
+          {
+            "byte_above": "0x93",
+            "new_byte": "0x92",
+            "count": 95
+          },
+          {
+            "byte_above": "0xA7",
+            "new_byte": "0xB2",
+            "count": 92
+          },
+          {
+            "byte_above": "0x6A",
+            "new_byte": "0x7A",
+            "count": 88
+          },
+          {
+            "byte_above": "0x3E",
+            "new_byte": "0xDF",
+            "count": 85
+          },
+          {
+            "byte_above": "0x79",
+            "new_byte": "0x27",
+            "count": 84
+          },
+          {
+            "byte_above": "0x89",
+            "new_byte": "0x88",
+            "count": 83
+          },
+          {
+            "byte_above": "0xA8",
+            "new_byte": "0xA2",
+            "count": 82
+          },
+          {
+            "byte_above": "0x9B",
+            "new_byte": "0x8B",
+            "count": 80
+          },
+          {
+            "byte_above": "0xAC",
+            "new_byte": "0xA3",
+            "count": 80
+          },
+          {
+            "byte_above": "0x88",
+            "new_byte": "0xDF",
+            "count": 79
+          },
+          {
+            "byte_above": "0x8B",
+            "new_byte": "0xDF",
+            "count": 78
+          },
+          {
+            "byte_above": "0x8A",
+            "new_byte": "0x9B",
+            "count": 77
+          },
+          {
+            "byte_above": "0x9A",
+            "new_byte": "0x88",
+            "count": 73
+          },
+          {
+            "byte_above": "0x59",
+            "new_byte": "0x25",
+            "count": 73
+          },
+          {
+            "byte_above": "0x80",
+            "new_byte": "0xDF",
+            "count": 72
+          },
+          {
+            "byte_above": "0x78",
+            "new_byte": "0x27",
+            "count": 71
+          },
+          {
+            "byte_above": "0x90",
+            "new_byte": "0x9A",
+            "count": 67
+          },
+          {
+            "byte_above": "0x58",
+            "new_byte": "0x25",
+            "count": 65
+          },
+          {
+            "byte_above": "0x44",
+            "new_byte": "0x27",
+            "count": 63
+          },
+          {
+            "byte_above": "0x92",
+            "new_byte": "0x96",
+            "count": 62
+          },
+          {
+            "byte_above": "0x61",
+            "new_byte": "0x27",
+            "count": 61
+          },
+          {
+            "byte_above": "0x84",
+            "new_byte": "0xDF",
+            "count": 61
+          },
+          {
+            "byte_above": "0x4A",
+            "new_byte": "0x27",
+            "count": 59
+          },
+          {
+            "byte_above": "0xA9",
+            "new_byte": "0xB0",
+            "count": 59
+          },
+          {
+            "byte_above": "0x81",
+            "new_byte": "0xDF",
+            "count": 58
+          },
+          {
+            "byte_above": "0x56",
+            "new_byte": "0x27",
+            "count": 55
+          },
+          {
+            "byte_above": "0x40",
+            "new_byte": "0x27",
+            "count": 55
+          },
+          {
+            "byte_above": "0x7B",
+            "new_byte": "0x25",
+            "count": 55
+          }
+        ]
+      }
+    },
+    "greens": {
+      "dictionary_codes": {
+        "0xE5": {
+          "first_byte": "0x00",
+          "repeat_count": 23,
+          "usage_count": 152,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE6": {
+          "first_byte": "0x00",
+          "repeat_count": 6,
+          "usage_count": 217,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF7": {
+          "first_byte": "0x71",
+          "repeat_count": 1,
+          "usage_count": 34,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_03",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_12",
+            "japan/hole_14",
+            "japan/hole_17",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_10",
+            "us/hole_12",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16"
+          ]
+        },
+        "0xF4": {
+          "first_byte": "0x00",
+          "repeat_count": 13,
+          "usage_count": 37,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_17"
+          ]
+        },
+        "0xE4": {
+          "first_byte": "0x00",
+          "repeat_count": 5,
+          "usage_count": 284,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE1": {
+          "first_byte": "0x00",
+          "repeat_count": 2,
+          "usage_count": 522,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF6": {
+          "first_byte": "0x62",
+          "repeat_count": 1,
+          "usage_count": 35,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_12",
+            "japan/hole_14",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_07",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_18"
+          ]
+        },
+        "0xE9": {
+          "first_byte": "0x00",
+          "repeat_count": 9,
+          "usage_count": 124,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_02",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17"
+          ]
+        },
+        "0xE3": {
+          "first_byte": "0x00",
+          "repeat_count": 4,
+          "usage_count": 340,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE0": {
+          "first_byte": "0x00",
+          "repeat_count": 1,
+          "usage_count": 725,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xED": {
+          "first_byte": "0x4A",
+          "repeat_count": 1,
+          "usage_count": 63,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_10",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "us/hole_01",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE7": {
+          "first_byte": "0x00",
+          "repeat_count": 7,
+          "usage_count": 169,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xE2": {
+          "first_byte": "0x00",
+          "repeat_count": 3,
+          "usage_count": 454,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xEC": {
+          "first_byte": "0x48",
+          "repeat_count": 1,
+          "usage_count": 67,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_10",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "us/hole_01",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_09",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF2": {
+          "first_byte": "0xB0",
+          "repeat_count": 1,
+          "usage_count": 44,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_14",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_16",
+            "us/hole_01",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_07",
+            "us/hole_09",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_16"
+          ]
+        },
+        "0xE8": {
+          "first_byte": "0x00",
+          "repeat_count": 8,
+          "usage_count": 152,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_09",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_04",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF5": {
+          "first_byte": "0x6E",
+          "repeat_count": 1,
+          "usage_count": 36,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_09",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_08",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_16",
+            "us/hole_17"
+          ]
+        },
+        "0xF0": {
+          "first_byte": "0x00",
+          "repeat_count": 12,
+          "usage_count": 45,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_08",
+            "japan/hole_10",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_15",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_11",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_13",
+            "us/hole_15",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xFC": {
+          "first_byte": "0x00",
+          "repeat_count": 18,
+          "usage_count": 15,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_10",
+            "japan/hole_11",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_12",
+            "uk/hole_18",
+            "us/hole_10",
+            "us/hole_18"
+          ]
+        },
+        "0xEA": {
+          "first_byte": "0x00",
+          "repeat_count": 10,
+          "usage_count": 82,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_03",
+            "us/hole_05",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_18"
+          ]
+        },
+        "0xEF": {
+          "first_byte": "0x2C",
+          "repeat_count": 1,
+          "usage_count": 52,
+          "holes": [
+            "japan/hole_01",
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_10",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "us/hole_01",
+            "us/hole_02",
+            "us/hole_03",
+            "us/hole_04",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_14",
+            "us/hole_18"
+          ]
+        },
+        "0xFD": {
+          "first_byte": "0x82",
+          "repeat_count": 1,
+          "usage_count": 19,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_10",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_05",
+            "uk/hole_09",
+            "uk/hole_10",
+            "us/hole_02",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_12",
+            "us/hole_16"
+          ]
+        },
+        "0xEB": {
+          "first_byte": "0x00",
+          "repeat_count": 11,
+          "usage_count": 68,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_03",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_12",
+            "japan/hole_14",
+            "japan/hole_16",
+            "japan/hole_17",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_10",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_18",
+            "us/hole_02",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF3": {
+          "first_byte": "0x00",
+          "repeat_count": 15,
+          "usage_count": 32,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_12",
+            "uk/hole_15",
+            "us/hole_01",
+            "us/hole_07",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_18"
+          ]
+        },
+        "0xFA": {
+          "first_byte": "0x00",
+          "repeat_count": 16,
+          "usage_count": 25,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_07",
+            "japan/hole_10",
+            "japan/hole_15",
+            "japan/hole_17",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_15",
+            "us/hole_10",
+            "us/hole_13",
+            "us/hole_18"
+          ]
+        },
+        "0xFB": {
+          "first_byte": "0x00",
+          "repeat_count": 17,
+          "usage_count": 18,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_11",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "uk/hole_01",
+            "uk/hole_05",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_07",
+            "us/hole_10",
+            "us/hole_18"
+          ]
+        },
+        "0xF8": {
+          "first_byte": "0x80",
+          "repeat_count": 1,
+          "usage_count": 33,
+          "holes": [
+            "japan/hole_02",
+            "japan/hole_04",
+            "japan/hole_05",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_13",
+            "japan/hole_16",
+            "uk/hole_02",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_07",
+            "uk/hole_08",
+            "uk/hole_10",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_18",
+            "us/hole_02",
+            "us/hole_05",
+            "us/hole_07",
+            "us/hole_09",
+            "us/hole_12",
+            "us/hole_17"
+          ]
+        },
+        "0xF1": {
+          "first_byte": "0x50",
+          "repeat_count": 1,
+          "usage_count": 48,
+          "holes": [
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_07",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_14",
+            "uk/hole_01",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_04",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_08",
+            "uk/hole_09",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_02",
+            "us/hole_04",
+            "us/hole_05",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_09",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_14",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xFF": {
+          "first_byte": "0x81",
+          "repeat_count": 1,
+          "usage_count": 17,
+          "holes": [
+            "japan/hole_03",
+            "japan/hole_08",
+            "japan/hole_11",
+            "japan/hole_15",
+            "japan/hole_18",
+            "uk/hole_01",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_07",
+            "uk/hole_09",
+            "us/hole_02",
+            "us/hole_08",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_14",
+            "us/hole_16",
+            "us/hole_17"
+          ]
+        },
+        "0xEE": {
+          "first_byte": "0x6B",
+          "repeat_count": 1,
+          "usage_count": 53,
+          "holes": [
+            "japan/hole_03",
+            "japan/hole_05",
+            "japan/hole_06",
+            "japan/hole_08",
+            "japan/hole_09",
+            "japan/hole_10",
+            "japan/hole_11",
+            "japan/hole_12",
+            "japan/hole_13",
+            "japan/hole_15",
+            "japan/hole_16",
+            "japan/hole_17",
+            "japan/hole_18",
+            "uk/hole_02",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_06",
+            "uk/hole_09",
+            "uk/hole_12",
+            "uk/hole_13",
+            "uk/hole_14",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_04",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_08",
+            "us/hole_09",
+            "us/hole_10",
+            "us/hole_11",
+            "us/hole_12",
+            "us/hole_13",
+            "us/hole_15",
+            "us/hole_16",
+            "us/hole_17",
+            "us/hole_18"
+          ]
+        },
+        "0xF9": {
+          "first_byte": "0x00",
+          "repeat_count": 14,
+          "usage_count": 25,
+          "holes": [
+            "japan/hole_05",
+            "japan/hole_07",
+            "japan/hole_13",
+            "japan/hole_14",
+            "japan/hole_15",
+            "japan/hole_17",
+            "uk/hole_03",
+            "uk/hole_05",
+            "uk/hole_07",
+            "uk/hole_11",
+            "uk/hole_12",
+            "uk/hole_15",
+            "uk/hole_16",
+            "uk/hole_17",
+            "uk/hole_18",
+            "us/hole_01",
+            "us/hole_06",
+            "us/hole_07",
+            "us/hole_13"
+          ]
+        },
+        "0xFE": {
+          "first_byte": "0x9F",
+          "repeat_count": 1,
+          "usage_count": 23,
+          "holes": [
+            "japan/hole_11",
+            "japan/hole_15",
+            "japan/hole_17",
+            "uk/hole_05",
+            "uk/hole_08",
+            "uk/hole_11",
+            "uk/hole_12",
+            "us/hole_04",
+            "us/hole_11"
+          ]
+        }
+      },
+      "repeat_codes": {
+        "23": {
+          "usage_count": 1242,
+          "top_transitions": [
+            {
+              "prev_byte": "0x29",
+              "next_byte": "0x2C",
+              "count": 646
+            },
+            {
+              "prev_byte": "0x2C",
+              "next_byte": "0x29",
+              "count": 596
+            }
+          ]
+        },
+        "1": {
+          "usage_count": 345,
+          "top_transitions": [
+            {
+              "prev_byte": "0x5C",
+              "next_byte": "0x49",
+              "count": 16
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9C",
+              "count": 16
+            },
+            {
+              "prev_byte": "0x63",
+              "next_byte": "0x4D",
+              "count": 16
+            },
+            {
+              "prev_byte": "0x6C",
+              "next_byte": "0x57",
+              "count": 16
+            },
+            {
+              "prev_byte": "0x4D",
+              "next_byte": "0x65",
+              "count": 15
+            },
+            {
+              "prev_byte": "0x67",
+              "next_byte": "0x73",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x59",
+              "next_byte": "0x51",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x65",
+              "next_byte": "0x65",
+              "count": 12
+            },
+            {
+              "prev_byte": "0x5B",
+              "next_byte": "0x57",
+              "count": 12
+            },
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x95",
+              "count": 11
+            },
+            {
+              "prev_byte": "0x5E",
+              "next_byte": "0x4D",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9D",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x7E",
+              "next_byte": "0x6A",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x99",
+              "next_byte": "0x99",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x56",
+              "next_byte": "0x5A",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x84",
+              "next_byte": "0x66",
+              "count": 7
+            },
+            {
+              "prev_byte": "0x9A",
+              "next_byte": "0x9A",
+              "count": 7
+            },
+            {
+              "prev_byte": "0x7F",
+              "next_byte": "0x2C",
+              "count": 7
+            },
+            {
+              "prev_byte": "0x70",
+              "next_byte": "0x66",
+              "count": 7
+            }
+          ]
+        },
+        "4": {
+          "usage_count": 100,
+          "top_transitions": [
+            {
+              "prev_byte": "0x99",
+              "next_byte": "0x99",
+              "count": 12
+            },
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x65",
+              "next_byte": "0x65",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9C",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x9F",
+              "next_byte": "0x9F",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x93",
+              "next_byte": "0x93",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x9A",
+              "next_byte": "0x9A",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x63",
+              "next_byte": "0x4D",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x4D",
+              "next_byte": "0x65",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x3B",
+              "next_byte": "0x3B",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x3E",
+              "next_byte": "0x3E",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x46",
+              "next_byte": "0x46",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x3A",
+              "next_byte": "0x3A",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x88",
+              "next_byte": "0x88",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x96",
+              "next_byte": "0x96",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x2C",
+              "next_byte": "0x29",
+              "count": 2
+            },
+            {
+              "prev_byte": "0x29",
+              "next_byte": "0x2C",
+              "count": 2
+            },
+            {
+              "prev_byte": "0x82",
+              "next_byte": "0x58",
+              "count": 2
+            }
+          ]
+        },
+        "2": {
+          "usage_count": 272,
+          "top_transitions": [
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 26
+            },
+            {
+              "prev_byte": "0x4D",
+              "next_byte": "0x65",
+              "count": 23
+            },
+            {
+              "prev_byte": "0x2C",
+              "next_byte": "0x29",
+              "count": 19
+            },
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 18
+            },
+            {
+              "prev_byte": "0x29",
+              "next_byte": "0x2C",
+              "count": 15
+            },
+            {
+              "prev_byte": "0x65",
+              "next_byte": "0x65",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x4A",
+              "next_byte": "0x4B",
+              "count": 11
+            },
+            {
+              "prev_byte": "0x9F",
+              "next_byte": "0x9F",
+              "count": 10
+            },
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x95",
+              "count": 10
+            },
+            {
+              "prev_byte": "0x8E",
+              "next_byte": "0x8E",
+              "count": 10
+            },
+            {
+              "prev_byte": "0x63",
+              "next_byte": "0x4D",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9C",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9D",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x3F",
+              "next_byte": "0x3F",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x88",
+              "next_byte": "0x88",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x98",
+              "next_byte": "0x98",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x76",
+              "next_byte": "0x4A",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x69",
+              "next_byte": "0x4A",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x81",
+              "next_byte": "0x2C",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x3E",
+              "next_byte": "0x3E",
+              "count": 4
+            }
+          ]
+        },
+        "3": {
+          "usage_count": 138,
+          "top_transitions": [
+            {
+              "prev_byte": "0x65",
+              "next_byte": "0x65",
+              "count": 15
+            },
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 14
+            },
+            {
+              "prev_byte": "0x4D",
+              "next_byte": "0x65",
+              "count": 10
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9C",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x63",
+              "next_byte": "0x4D",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x9F",
+              "next_byte": "0x9F",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x8E",
+              "next_byte": "0x8E",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x95",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x88",
+              "next_byte": "0x88",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x3D",
+              "next_byte": "0x3D",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 4
+            },
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9D",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x99",
+              "next_byte": "0x99",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x39",
+              "next_byte": "0x39",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x9A",
+              "next_byte": "0x9A",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x3F",
+              "next_byte": "0x3F",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x92",
+              "next_byte": "0x92",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x8B",
+              "next_byte": "0x8B",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x46",
+              "next_byte": "0x46",
+              "count": 3
+            }
+          ]
+        },
+        "10": {
+          "usage_count": 30,
+          "top_transitions": [
+            {
+              "prev_byte": "0x8C",
+              "next_byte": "0x8C",
+              "count": 10
+            },
+            {
+              "prev_byte": "0x92",
+              "next_byte": "0x92",
+              "count": 10
+            },
+            {
+              "prev_byte": "0x3A",
+              "next_byte": "0x3A",
+              "count": 10
+            }
+          ]
+        },
+        "13": {
+          "usage_count": 26,
+          "top_transitions": [
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 13
+            },
+            {
+              "prev_byte": "0x9F",
+              "next_byte": "0x9F",
+              "count": 13
+            }
+          ]
+        },
+        "12": {
+          "usage_count": 24,
+          "top_transitions": [
+            {
+              "prev_byte": "0x44",
+              "next_byte": "0x44",
+              "count": 12
+            },
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 11
+            },
+            {
+              "prev_byte": "0x54",
+              "next_byte": "0xB0",
+              "count": 1
+            }
+          ]
+        },
+        "11": {
+          "usage_count": 11,
+          "top_transitions": [
+            {
+              "prev_byte": "0x8C",
+              "next_byte": "0x8C",
+              "count": 11
+            }
+          ]
+        },
+        "14": {
+          "usage_count": 28,
+          "top_transitions": [
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 14
+            },
+            {
+              "prev_byte": "0x44",
+              "next_byte": "0x44",
+              "count": 14
+            }
+          ]
+        },
+        "6": {
+          "usage_count": 66,
+          "top_transitions": [
+            {
+              "prev_byte": "0x65",
+              "next_byte": "0x65",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x99",
+              "next_byte": "0x99",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x9A",
+              "next_byte": "0x9A",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x93",
+              "next_byte": "0x93",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x89",
+              "next_byte": "0x89",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9C",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x9F",
+              "next_byte": "0x9F",
+              "count": 6
+            },
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x95",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x4D",
+              "next_byte": "0x65",
+              "count": 2
+            },
+            {
+              "prev_byte": "0x63",
+              "next_byte": "0x4D",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x35",
+              "next_byte": "0x00",
+              "count": 1
+            }
+          ]
+        },
+        "16": {
+          "usage_count": 64,
+          "top_transitions": [
+            {
+              "prev_byte": "0x3F",
+              "next_byte": "0x3F",
+              "count": 16
+            },
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 16
+            },
+            {
+              "prev_byte": "0x9A",
+              "next_byte": "0x9A",
+              "count": 16
+            },
+            {
+              "prev_byte": "0x98",
+              "next_byte": "0x98",
+              "count": 16
+            }
+          ]
+        },
+        "21": {
+          "usage_count": 105,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 105
+            }
+          ]
+        },
+        "7": {
+          "usage_count": 56,
+          "top_transitions": [
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9D",
+              "count": 14
+            },
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 12
+            },
+            {
+              "prev_byte": "0x9C",
+              "next_byte": "0x9C",
+              "count": 7
+            },
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x95",
+              "count": 7
+            },
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 7
+            },
+            {
+              "prev_byte": "0x65",
+              "next_byte": "0x65",
+              "count": 6
+            },
+            {
+              "prev_byte": "0x36",
+              "next_byte": "0x00",
+              "count": 2
+            },
+            {
+              "prev_byte": "0x4D",
+              "next_byte": "0x65",
+              "count": 1
+            }
+          ]
+        },
+        "15": {
+          "usage_count": 15,
+          "top_transitions": [
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 15
+            }
+          ]
+        },
+        "19": {
+          "usage_count": 114,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 114
+            }
+          ]
+        },
+        "5": {
+          "usage_count": 50,
+          "top_transitions": [
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 10
+            },
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x88",
+              "next_byte": "0x88",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x89",
+              "next_byte": "0x89",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x95",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x9E",
+              "next_byte": "0x9E",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x9D",
+              "next_byte": "0x9D",
+              "count": 5
+            },
+            {
+              "prev_byte": "0x65",
+              "next_byte": "0x65",
+              "count": 3
+            },
+            {
+              "prev_byte": "0x36",
+              "next_byte": "0x00",
+              "count": 2
+            },
+            {
+              "prev_byte": "0x63",
+              "next_byte": "0x4D",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x4D",
+              "next_byte": "0x65",
+              "count": 1
+            }
+          ]
+        },
+        "8": {
+          "usage_count": 16,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 14
+            },
+            {
+              "prev_byte": "0x36",
+              "next_byte": "0x00",
+              "count": 1
+            },
+            {
+              "prev_byte": "0x35",
+              "next_byte": "0x00",
+              "count": 1
+            }
+          ]
+        },
+        "17": {
+          "usage_count": 68,
+          "top_transitions": [
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 17
+            },
+            {
+              "prev_byte": "0x98",
+              "next_byte": "0x98",
+              "count": 17
+            },
+            {
+              "prev_byte": "0x9F",
+              "next_byte": "0x9F",
+              "count": 17
+            },
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 16
+            },
+            {
+              "prev_byte": "0x36",
+              "next_byte": "0x00",
+              "count": 1
+            }
+          ]
+        },
+        "20": {
+          "usage_count": 160,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 160
+            }
+          ]
+        },
+        "9": {
+          "usage_count": 18,
+          "top_transitions": [
+            {
+              "prev_byte": "0x95",
+              "next_byte": "0x95",
+              "count": 9
+            },
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 8
+            },
+            {
+              "prev_byte": "0x35",
+              "next_byte": "0x00",
+              "count": 1
+            }
+          ]
+        },
+        "18": {
+          "usage_count": 18,
+          "top_transitions": [
+            {
+              "prev_byte": "0xB0",
+              "next_byte": "0xB0",
+              "count": 17
+            },
+            {
+              "prev_byte": "0x54",
+              "next_byte": "0xB0",
+              "count": 1
+            }
+          ]
+        },
+        "22": {
+          "usage_count": 22,
+          "top_transitions": [
+            {
+              "prev_byte": "0x00",
+              "next_byte": "0x00",
+              "count": 22
+            }
+          ]
+        }
+      },
+      "horizontal_transitions": {
+        "total_count": 19143,
+        "unique_transitions": 14,
+        "top_transitions": [
+          {
+            "prev_byte": "0x00",
+            "next_byte": "0x00",
+            "count": 18619
+          },
+          {
+            "prev_byte": "0x48",
+            "next_byte": "0x49",
+            "count": 67
+          },
+          {
+            "prev_byte": "0x4A",
+            "next_byte": "0x4B",
+            "count": 63
+          },
+          {
+            "prev_byte": "0x6B",
+            "next_byte": "0x4E",
+            "count": 53
+          },
+          {
+            "prev_byte": "0x2C",
+            "next_byte": "0x29",
+            "count": 52
+          },
+          {
+            "prev_byte": "0x50",
+            "next_byte": "0x6F",
+            "count": 48
+          },
+          {
+            "prev_byte": "0xB0",
+            "next_byte": "0xB0",
+            "count": 44
+          },
+          {
+            "prev_byte": "0x6E",
+            "next_byte": "0x51",
+            "count": 36
+          },
+          {
+            "prev_byte": "0x62",
+            "next_byte": "0x4B",
+            "count": 35
+          },
+          {
+            "prev_byte": "0x71",
+            "next_byte": "0x85",
+            "count": 34
+          },
+          {
+            "prev_byte": "0x80",
+            "next_byte": "0x5A",
+            "count": 33
+          },
+          {
+            "prev_byte": "0x9F",
+            "next_byte": "0x9F",
+            "count": 23
+          },
+          {
+            "prev_byte": "0x82",
+            "next_byte": "0x58",
+            "count": 19
+          },
+          {
+            "prev_byte": "0x81",
+            "next_byte": "0x2C",
+            "count": 17
+          }
+        ]
+      },
+      "vertical_fills": {
+        "total_count": 23436,
+        "unique_fills": 102,
+        "top_fills": [
+          {
+            "byte_above": "0x2C",
+            "new_byte": "0x29",
+            "count": 5766
+          },
+          {
+            "byte_above": "0x29",
+            "new_byte": "0x2C",
+            "count": 5752
+          },
+          {
+            "byte_above": "0xB0",
+            "new_byte": "0xB0",
+            "count": 1490
+          },
+          {
+            "byte_above": "0x9E",
+            "new_byte": "0x9E",
+            "count": 1097
+          },
+          {
+            "byte_above": "0x9F",
+            "new_byte": "0x9F",
+            "count": 829
+          },
+          {
+            "byte_above": "0x9C",
+            "new_byte": "0x9C",
+            "count": 669
+          },
+          {
+            "byte_above": "0x95",
+            "new_byte": "0x95",
+            "count": 597
+          },
+          {
+            "byte_above": "0x9D",
+            "new_byte": "0x9D",
+            "count": 533
+          },
+          {
+            "byte_above": "0x99",
+            "new_byte": "0x99",
+            "count": 513
+          },
+          {
+            "byte_above": "0x9A",
+            "new_byte": "0x9A",
+            "count": 472
+          },
+          {
+            "byte_above": "0x88",
+            "new_byte": "0x88",
+            "count": 336
+          },
+          {
+            "byte_above": "0x3B",
+            "new_byte": "0x3B",
+            "count": 305
+          },
+          {
+            "byte_above": "0x9B",
+            "new_byte": "0x9B",
+            "count": 217
+          },
+          {
+            "byte_above": "0x46",
+            "new_byte": "0x46",
+            "count": 202
+          },
+          {
+            "byte_above": "0x3F",
+            "new_byte": "0x3F",
+            "count": 196
+          },
+          {
+            "byte_above": "0x8E",
+            "new_byte": "0x8E",
+            "count": 183
+          },
+          {
+            "byte_above": "0x93",
+            "new_byte": "0x93",
+            "count": 170
+          },
+          {
+            "byte_above": "0x92",
+            "new_byte": "0x92",
+            "count": 147
+          },
+          {
+            "byte_above": "0x8C",
+            "new_byte": "0x8C",
+            "count": 137
+          },
+          {
+            "byte_above": "0x3E",
+            "new_byte": "0x3E",
+            "count": 137
+          },
+          {
+            "byte_above": "0x96",
+            "new_byte": "0x96",
+            "count": 123
+          },
+          {
+            "byte_above": "0x3A",
+            "new_byte": "0x3A",
+            "count": 115
+          },
+          {
+            "byte_above": "0x98",
+            "new_byte": "0x98",
+            "count": 112
+          },
+          {
+            "byte_above": "0x45",
+            "new_byte": "0x45",
+            "count": 108
+          },
+          {
+            "byte_above": "0x44",
+            "new_byte": "0x44",
+            "count": 101
+          },
+          {
+            "byte_above": "0x94",
+            "new_byte": "0x94",
+            "count": 98
+          },
+          {
+            "byte_above": "0x89",
+            "new_byte": "0x89",
+            "count": 93
+          },
+          {
+            "byte_above": "0x4B",
+            "new_byte": "0x69",
+            "count": 87
+          },
+          {
+            "byte_above": "0x3D",
+            "new_byte": "0x3D",
+            "count": 87
+          },
+          {
+            "byte_above": "0x85",
+            "new_byte": "0x64",
+            "count": 85
+          },
+          {
+            "byte_above": "0x8D",
+            "new_byte": "0x8D",
+            "count": 84
+          },
+          {
+            "byte_above": "0x6B",
+            "new_byte": "0x4F",
+            "count": 82
+          },
+          {
+            "byte_above": "0x65",
+            "new_byte": "0x86",
+            "count": 80
+          },
+          {
+            "byte_above": "0x4E",
+            "new_byte": "0x29",
+            "count": 76
+          },
+          {
+            "byte_above": "0x50",
+            "new_byte": "0x52",
+            "count": 75
+          },
+          {
+            "byte_above": "0x6A",
+            "new_byte": "0x4C",
+            "count": 74
+          },
+          {
+            "byte_above": "0x52",
+            "new_byte": "0x66",
+            "count": 73
+          },
+          {
+            "byte_above": "0x97",
+            "new_byte": "0x97",
+            "count": 73
+          },
+          {
+            "byte_above": "0x71",
+            "new_byte": "0x64",
+            "count": 71
+          },
+          {
+            "byte_above": "0x66",
+            "new_byte": "0x66",
+            "count": 69
+          },
+          {
+            "byte_above": "0x48",
+            "new_byte": "0x68",
+            "count": 69
+          },
+          {
+            "byte_above": "0x4D",
+            "new_byte": "0x29",
+            "count": 67
+          },
+          {
+            "byte_above": "0x4F",
+            "new_byte": "0x2C",
+            "count": 62
+          },
+          {
+            "byte_above": "0x4C",
+            "new_byte": "0x29",
+            "count": 62
+          },
+          {
+            "byte_above": "0x53",
+            "new_byte": "0x67",
+            "count": 60
+          },
+          {
+            "byte_above": "0x8B",
+            "new_byte": "0x8B",
+            "count": 58
+          },
+          {
+            "byte_above": "0x8F",
+            "new_byte": "0x8F",
+            "count": 58
+          },
+          {
+            "byte_above": "0x67",
+            "new_byte": "0x67",
+            "count": 57
+          },
+          {
+            "byte_above": "0x91",
+            "new_byte": "0x91",
+            "count": 57
+          },
+          {
+            "byte_above": "0x55",
+            "new_byte": "0x57",
+            "count": 55
+          }
+        ]
+      }
+    }
+  }
+}
